@@ -56,7 +56,7 @@ g++ max_sum_div_three.cpp -o max_sum_div_three
 
 ## 📂 Структура проекта
 ```
-max_sum_div_three/
+ConsoleApplication6.cpp/
 ├── max_sum_div_three.cpp  # Исходный код программы
 ├── README.md              # Документация (этот файл)
 └── LICENSE                # Лицензия MIT
